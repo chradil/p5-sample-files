@@ -1,6 +1,6 @@
 # p5-sample-files
 
-##in terminal:
+in terminal:
 
 -cd into the p5-sample-files directory
 
