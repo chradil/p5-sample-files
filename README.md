@@ -2,7 +2,7 @@
 
 ## in terminal:
 
-* ```cd``` into the ```p5-sample-files directory```
+* ```cd``` into the ```p5-sample-files``` directory
 
 * Then, ```python -m SimpleHTTPServer 8000```    
 
